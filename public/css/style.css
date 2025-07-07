@@ -63,6 +63,10 @@ body {
   font-size: 1.125rem;
   line-height: 1.75rem;
   font-weight: 700;
+  div span {
+    font-family: YekanBakh-Regular;
+    color: rgb(161 161 170);
+  }
   .generated-password {
     display: contents;
     font-size: 0.98rem;

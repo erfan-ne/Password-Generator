@@ -47,12 +47,6 @@ cd password-generator
 start index.html   # or open it manually
 ```
 
-For live development with a local server:
-
-```bash
-npx serve .
-```
-
 ---
 
 ## 📁 Project Structure
